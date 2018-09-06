@@ -1,0 +1,37 @@
+1 separate data
+2 easy interpret + less preproc
+3 to improve gen
+4 knn, svm, naive
+5 not memory, knn > logistic (poderia ser naive bayers than decision tree)
+6 1 knn 2 neural 3 dc
+7 0,06745446
+8 collection_status, ticket_issued_date
+9 if time is a factor..., remove variables..., sanity check
+10 0 0 0 1
+
+ERRADOS: 4 5 6 7 8 10
+4 knn dc
+5 naive than dc
+6 neural knn dc
+7 0.067
+8 compliance, grafiti
+10 0 1 1 1
+
+ERRADO 4 5 8 10
+
+4 neural
+5 for predicting future sales
+10 0 1 1 1
+
+ERRADO 4 5 8 10
+
+Corretas
+1 separate data
+2 easy interpret + less preproc
+3 to improve gen
+
+
+6 neural knn dc
+7 0.067
+
+9 if time is a factor..., remove variables..., sanity check
