@@ -29,9 +29,15 @@ Corretas
 1 separate data
 2 easy interpret + less preproc
 3 to improve gen
+4 knn neural svm
 
 
 6 neural knn dc
 7 0.067
-
+8 collection e compliance
 9 if time is a factor..., remove variables..., sanity check
+10 000 0 (1a linha) e (1110 ultima linha)
+
+#
+5 linear than dc
+
